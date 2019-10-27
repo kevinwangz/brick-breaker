@@ -14,7 +14,7 @@ Click anywhere on the screen to start the game.
 
 Running the Game
 -------------
-`gradle -jar break-out.jar <frame rate> <ball speed>`
+`java -jar break-out.jar <frame rate> <ball speed>`
 
 The first parameter controls the frame rate (20-100).
 The second parameter controls the speed of the ball. Here, 1 corresponds to slow, 2 corresponds to moderate speed and 3 corresponds to fast.
