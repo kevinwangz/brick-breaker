@@ -23,3 +23,5 @@ The Game
 -------------
 - A randomly selected set of blocks is configured each time a game is started
 - The player has 3 lives to remove all blocks from the screen
+
+![alt text](https://user-images.githubusercontent.com/54858210/67630405-49bb7f80-f844-11e9-85b5-0b62aca50a5e.png)
