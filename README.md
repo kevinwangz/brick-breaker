@@ -1,5 +1,3 @@
-# brick-breaker
-
 Brick Breaker
 -------------
 
