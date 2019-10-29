@@ -1,4 +1,4 @@
-# break-out
+# brick-breaker
 
 Brick Breaker
 -------------
